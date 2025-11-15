@@ -1,5 +1,6 @@
 # 100kinsat-spresense
 Spresenseを使った100kinSATのデータ置き場
+Bパーツ：基板データと3Dモデルデータの置き場
 
 # リポジトリの構成
 
@@ -7,4 +8,3 @@ Spresenseを使った100kinSATのデータ置き場
 |:---|:---|
 | `/3d-model` | 3Dモデルデータ |
 | `/pcb` | 基板データ |
-| `/src` | ソースコード |
